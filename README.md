@@ -23,3 +23,6 @@ An example of real-time web map developed with node.js, SockJS, Redis, Django an
 When you have installed all dependencies and started your development server (with neccessary scripts running in background) you can check your real-time map demo by going at http://127.0.0.1:8000/  
 
 More info coming soon ...
+
+<h3>License</h3>
+MIT Licensed. See LICENSE.md
