@@ -20,7 +20,7 @@ Demo link - coming soon ...
 <li>Install Express <code>npm install express</code></li>
 <li>Install redis <code>npm install redis</code></li>
 <li>Install http-server <code>npm install http-server</code></li>
-<li>Install requirements for Django project <code>pip install requirements.txt</code>
+<li>Install requirements for Django project <code>pip install -r requirements.txt</code>
 </ul>
 
 <h3>Getting Started</h3>
