@@ -8,6 +8,11 @@ An example of real-time web map developed with node.js, SockJS, Redis, Django an
 
 Demo link - coming soon ...
 
+<h3>How Does It Work</h3>
+..description coming soon..
+
+<img src="https://raw.githubusercontent.com/ipasic/real-time-map/master/real-time-map.png" />
+
 <h3>Installation</h3>
 <ul>
 <li>Install <a href="http://nodejs.org/download/">node.js</a></li>
