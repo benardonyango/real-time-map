@@ -7,18 +7,6 @@ var osmUrl='http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
 var osmAttrib='Map data © openstreetmap contributors';
 var osm = new L.TileLayer(osmUrl, {attribution: osmAttrib}); 
 
-/* create new layer group */
-var layer_apartments = new L.LayerGroup();
-var array_markers = new Array();
-
-/* create custom marker which will represent apartments in layer 'layer_apartments' */
-customMarker = L.Marker.extend({
-   options: { 
-      title: 'Name of the apartment',
-   }
-});
-
-
 /* create map object */
 var map = L.map('map', {
 	center: [44.1265, 15.225],
